@@ -1,0 +1,155 @@
+2025-06-06 15:07:55 | 12345678 | Inicio de sesión exitoso
+2025-06-06 15:12:42 | 12345678 | Cierre de sesión
+2025-06-06 15:16:58 | Sistema | Nuevo usuario registrado: 11112222
+2025-06-06 15:17:13 | 11112222 | Inicio de sesión exitoso
+2025-06-06 15:38:01 | 11112222 | Cierre de sesión
+2025-06-06 15:39:10 | 12345678 | Inicio de sesión exitoso
+2025-06-06 15:40:39 | 12345678 | Nuevo producto creado: TEX
+2025-06-06 15:42:01 | 12345678 | Nuevo destino creado: EE.UU
+2025-06-06 15:42:21 | 12345678 | Nuevo destino creado: ESPAÑA
+2025-06-06 15:42:41 | 12345678 | Destino eliminado: ESPAÑA
+2025-06-06 15:42:57 | 12345678 | Nuevo destino creado: España
+2025-06-06 15:50:13 | 12345678 | Usuario editado: 11112222
+2025-06-06 15:50:22 | 12345678 | Cierre de sesión
+2025-06-06 15:50:42 | Sistema | Intento de inicio de sesión fallido con DNI: 87654321
+2025-06-06 15:50:56 | Sistema | Intento de inicio de sesión fallido con DNI: 87654321
+2025-06-06 15:52:11 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-06 15:52:22 | 11112222 | Inicio de sesión exitoso
+2025-06-06 15:54:02 | 11112222 | Usuario editado: 11112222
+2025-06-06 16:04:44 | 11112222 | Nueva exportación registrada: TEX a EE.UU
+2025-06-06 16:12:01 | 11112222 | Nuevo producto creado: Cañihua (Chenopodium pallidicaule)
+2025-06-06 16:17:05 | 11112222 | Nuevo producto creado: Quinua
+2025-06-06 16:17:21 | 11112222 | Nuevo producto creado: Maíz Morado
+2025-06-06 16:17:38 | 11112222 | Nuevo producto creado: Papa Nativa
+2025-06-06 16:17:55 | 11112222 | Nuevo producto creado: Tarwi
+2025-06-06 16:18:11 | 11112222 | Nuevo producto creado: Kiwicha
+2025-06-06 16:18:49 | 11112222 | Nuevo producto creado: Cañihua
+2025-06-06 16:20:22 | 11112222 | Nuevo destino creado: Argentina
+2025-06-06 16:20:30 | 11112222 | Nuevo destino creado: Bolivia
+2025-06-06 16:20:47 | 11112222 | Nuevo destino creado: Brasil
+2025-06-06 16:21:00 | 11112222 | Nuevo destino creado: Chile
+2025-06-06 16:21:12 | 11112222 | Nuevo destino creado: Colombia
+2025-06-06 16:21:25 | 11112222 | Nuevo destino creado: Ecuador
+2025-06-06 16:21:38 | 11112222 | Nuevo destino creado: Guyana
+2025-06-06 16:21:52 | 11112222 | Nuevo destino creado: Paraguay
+2025-06-06 16:22:07 | 11112222 | Nuevo destino creado: Perú
+2025-06-06 16:22:27 | 11112222 | Nuevo destino creado: Surinam
+2025-06-06 16:22:40 | 11112222 | Nuevo destino creado: Uruguay
+2025-06-06 16:22:52 | 11112222 | Nuevo destino creado: Venezuela
+2025-06-06 16:23:22 | 11112222 | Destino editado: Estados Unidos (EE.UU.)
+2025-06-06 16:25:13 | 11112222 | Nuevo destino creado: China
+2025-06-06 16:25:56 | 11112222 | Nuevo destino creado: China
+2025-06-06 16:26:20 | 11112222 | Destino eliminado: China
+2025-06-06 16:26:57 | 11112222 | Nuevo destino creado: Alemania
+2025-06-06 16:27:49 | 11112222 | Nuevo destino creado: Japón
+2025-06-06 16:35:31 | 11112222 | Cierre de sesión
+2025-06-06 16:36:13 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-06 16:36:23 | 11112222 | Inicio de sesión exitoso
+2025-06-06 16:36:55 | 11112222 | Nueva exportación registrada: Cañihua (Chenopodium pallidicaule) a España
+2025-06-06 17:02:13 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:02:34 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:03:12 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:03:31 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:03:51 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:04:06 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:04:22 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:04:53 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:05:25 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:05:37 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:05:54 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:06:11 | 11112222 | Exportación editada: ID usr_6842
+2025-06-06 17:23:35 | 11112222 | Cierre de sesión
+2025-06-06 17:24:35 | Sistema | Nuevo usuario registrado: 11111111
+2025-06-06 17:24:42 | 11111111 | Inicio de sesión exitoso
+2025-06-06 17:27:18 | 11111111 | Exportación editada: ID usr_6842
+2025-06-06 17:40:18 | 11111111 | Exportación editada: ID usr_6842
+2025-06-06 17:41:52 | 11111111 | Nueva exportación registrada: Quinua a Uruguay
+2025-06-06 17:42:33 | 11111111 | Nueva exportación registrada: Quinua a Surinam
+2025-06-06 17:43:07 | 11111111 | Nueva exportación registrada: Maíz Morado a Surinam
+2025-06-06 17:44:13 | 11111111 | Nueva exportación registrada: Papa Nativa a China
+2025-06-06 17:44:45 | 11111111 | Nueva exportación registrada: Tarwi a Alemania
+2025-06-06 17:45:19 | 11111111 | Nueva exportación registrada: Maíz Morado a Chile
+2025-06-06 17:45:47 | 11111111 | Nueva exportación registrada: Tarwi a Bolivia
+2025-06-06 17:46:46 | 11111111 | Nueva exportación registrada: Maíz Morado a Brasil
+2025-06-06 18:57:39 | Sistema | Intento de inicio de sesión fallido con DNI: 11111111
+2025-06-06 18:57:47 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-06 18:57:57 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 18:58:12 | Sistema | Intento de inicio de sesión fallido con DNI: 87654321
+2025-06-06 18:58:42 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-06 18:59:14 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 18:59:55 | Sistema | Nuevo usuario registrado: 12345678
+2025-06-06 19:00:05 | 12345678 | Inicio de sesión exitoso
+2025-06-06 19:36:13 | 12345678 | Cierre de sesión
+2025-06-06 19:36:44 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-06 19:36:50 | 11112222 | Inicio de sesión exitoso
+2025-06-06 19:44:43 | 11112222 | Usuario editado: 11111111
+2025-06-06 20:35:35 | 11112222 | Cierre de sesión
+2025-06-06 20:36:16 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 20:36:26 | 11112222 | Inicio de sesión exitoso
+2025-06-06 20:47:28 | 11112222 | Nuevo usuario agregado por admin: 72090851
+2025-06-06 20:48:32 | 11112222 | Usuario editado: 72090851
+2025-06-06 21:13:12 | 11112222 | Usuario editado: 11111112
+2025-06-06 21:13:35 | 11112222 | Usuario eliminado: 11111112
+2025-06-06 21:15:33 | 11112222 | Usuario editado: 72090851
+2025-06-06 21:16:18 | 11112222 | Usuario editado: 12345678
+2025-06-06 21:17:21 | 11112222 | Usuario editado: 12345678
+2025-06-06 21:23:02 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:23:33 | 12345678 | Cierre de sesión
+2025-06-06 21:23:39 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:23:49 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:24:00 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:25:45 | 12345678 | Cierre de sesión
+2025-06-06 21:25:59 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:26:07 | 12345678 | Cierre de sesión
+2025-06-06 21:26:17 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:36:14 | 11112222 | Usuario editado: 12345678
+2025-06-06 21:36:29 | 11112222 | Cierre de sesión
+2025-06-06 21:36:44 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:36:51 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:36:58 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:37:04 | 12345678 | Cierre de sesión
+2025-06-06 21:37:12 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:37:20 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:37:43 | 12345678 | Usuario editado: 12345678
+2025-06-06 21:41:14 | 12345678 | Usuario editado: 12345678
+2025-06-06 21:41:26 | 12345678 | Cierre de sesión
+2025-06-06 21:41:36 | 12345678 | Cierre de sesión
+2025-06-06 21:41:49 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:41:57 | 12345678 | Cierre de sesión
+2025-06-06 21:42:04 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:42:08 | 12345678 | Cierre de sesión
+2025-06-06 21:42:16 | 12345678 | Inicio de sesión exitoso
+2025-06-06 21:46:12 | 12345678 | Cierre de sesión
+2025-06-06 21:46:21 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:46:30 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 21:46:41 | 12345678 | Inicio de sesión exitoso
+2025-06-06 23:10:30 | 12345678 | Nuevo usuario registrado: 22222222
+2025-06-06 23:11:31 | 12345678 | Usuario editado: 12345679
+2025-06-06 23:12:22 | 12345678 | Nuevo usuario registrado: 12345678
+2025-06-06 23:32:34 | Sistema | Intento de inicio de sesión fallido con DNI: 12345678
+2025-06-06 23:33:09 | 22222222 | Inicio de sesión exitoso
+2025-06-06 23:42:29 | 22222222 | Cierre de sesión
+2025-06-06 23:59:12 | 12345678 | Destino editado: Estados Unidos
+2025-06-07 00:26:11 | 12345678 | Nuevo destino creado: Italia
+2025-06-07 01:28:36 | 12345678 | Nuevo destino creado: Uruguay
+2025-06-07 01:29:26 | 12345678 | Destino editado: Uruguay
+2025-06-07 02:16:22 | 12345678 | Nuevo destino creado: Chile
+2025-06-07 02:17:40 | 12345678 | Destino editado: Chile
+2025-06-07 02:25:30 | 12345678 | Nuevo destino creado: Canadá
+2025-06-06 20:32:00 | 12345678 | Nuevo destino creado: Venezuela
+2025-06-06 20:33:58 | 12345678 | Nuevo destino creado: Venezuela
+2025-06-06 20:34:44 | 12345678 | Destino eliminado: Venezuela
+2025-06-06 20:35:06 | 12345678 | Destino eliminado: Venezuela
+2025-06-06 20:35:16 | 12345678 | Destino eliminado: Venezuela
+2025-06-07 03:43:42 | 12345678 | Usuario editado: 72090457
+2025-06-07 03:44:23 | 12345678 | Cierre de sesión
+2025-06-07 03:44:44 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-07 03:44:57 | Sistema | Intento de inicio de sesión fallido con DNI: 11112222
+2025-06-07 03:45:03 | Sistema | Intento de inicio de sesión fallido con DNI: 11111111
+2025-06-07 03:45:14 | Sistema | Intento de inicio de sesión fallido con DNI: 11111119
+2025-06-07 03:45:20 | 12345678 | Inicio de sesión exitoso
+2025-06-07 03:45:58 | 12345678 | Contraseña actualizada para usuario ID: usr_68435946ae08f8.38106692
+2025-06-07 03:46:01 | 12345678 | Cierre de sesión
+2025-06-07 03:46:07 | 22222222 | Inicio de sesión exitoso
+2025-06-07 03:46:35 | 22222222 | Cierre de sesión
+2025-06-07 03:46:40 | 12345678 | Inicio de sesión exitoso

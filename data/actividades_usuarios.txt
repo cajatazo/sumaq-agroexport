@@ -1,0 +1,16 @@
+[
+    {
+        "id": "68433faf2b980",
+        "usuario_id": "usr_6842ea4a45e5a4.12262417",
+        "accion": "Contrase\u00f1a actualizada",
+        "fecha": "2025-06-06 21:21:19",
+        "ip": "::1"
+    },
+    {
+        "id": "6843406a2190f",
+        "usuario_id": "usr_6842ea4a45e5a4.12262417",
+        "accion": "Contrase\u00f1a actualizada",
+        "fecha": "2025-06-06 21:24:26",
+        "ip": "::1"
+    }
+]

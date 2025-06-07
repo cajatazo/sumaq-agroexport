@@ -1,0 +1,20 @@
+{"id":"usr_6842f029330d35.29560811","nombre":"Estados Unidos","region":"Norteam\u00e9rica","especial":true,"fecha_creacion":"2025-06-06 15:42:01","activo":true}
+{"id":"usr_6842f061f34ae1.61860894","nombre":"Espa\u00f1a","region":"Europa","especial":false,"fecha_creacion":"2025-06-06 15:42:57","activo":true}
+{"id":"usr_6842f92642d1c3.66075523","nombre":"Argentina","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:20:22","activo":true}
+{"id":"usr_6842f92e181fc9.32082154","nombre":"Bolivia","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:20:30","activo":true}
+{"id":"usr_6842f93f10f411.29666042","nombre":"Brasil","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:20:47","activo":true}
+{"id":"usr_6842f94cc1e9a8.92363973","nombre":"Chile","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:21:00","activo":true}
+{"id":"usr_6842f9583baf80.35900990","nombre":"Colombia","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:21:12","activo":true}
+{"id":"usr_6842f96576a1e2.61192109","nombre":"Ecuador","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:21:25","activo":true}
+{"id":"usr_6842f97259e713.15033315","nombre":"Guyana","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:21:38","activo":true}
+{"id":"usr_6842f980c22c58.00653047","nombre":"Paraguay","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:21:52","activo":true}
+{"id":"usr_6842f98fd85695.69368220","nombre":"Per\u00fa","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:22:07","activo":true}
+{"id":"usr_6842f9a3bc4492.09169177","nombre":"Surinam","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:22:27","activo":true}
+{"id":"usr_6842f9b067aed9.97297344","nombre":"Uruguay","region":"Sudam\u00e9rica","especial":false,"fecha_creacion":"2025-06-06 16:22:40","activo":true}
+{"id":"usr_6842fa74bf9045.35789312","nombre":"China","region":"Asia","especial":true,"fecha_creacion":"2025-06-06 16:25:56","activo":true}
+{"id":"usr_6842fab1830e86.69085907","nombre":"Alemania","region":"Europa","especial":true,"fecha_creacion":"2025-06-06 16:26:57","activo":true}
+{"id":"usr_6842fae51051a7.22289957","nombre":"Jap\u00f3n","region":"Asia","especial":true,"fecha_creacion":"2025-06-06 16:27:49","activo":true}
+{"id":"usr_68436b03a7b746.04204033","nombre":"Italia","region":"Europa","especial":false,"fecha_creacion":"2025-06-07 00:26:11","activo":true}
+{"id":"usr_684379a45b6ea6.65614886","nombre":"Uruguay","region":"Sudam\u00e9rica","especial":true,"fecha_creacion":"2025-06-07 01:28:36","activo":true}
+{"id":"usr_684384d66881a8.17760800","nombre":"Chile","region":"Sudam\u00e9rica","capital":"Santiago","moneda":"Peso Chileno (CLP)","idioma":"Espa\u00f1ol","codigo_postal":"56","nombre_cliente":"Leonardo Flores","email_cliente":"flores@gmail.com","telefono_cliente":"123 456 876","direccion_cliente":"Mz. A-Lt. 2 zapallal","especial":true,"fecha_creacion":"2025-06-07 02:16:22","activo":true}
+{"id":"usr_684386fa5cd040.67665549","nombre":"Canad\u00e1","region":"Norteam\u00e9rica","capital":"Ottawa","moneda":"D\u00f3lar Canadiense (CAD)","idioma":"Ingl\u00e9s, Franc\u00e9s","codigo_postal":"1","nombre_cliente":"Paola vela","email_cliente":"paola@gmail.com","telefono_cliente":"123 456 798","direccion_cliente":"M Calle las tunas","especial":true,"fecha_creacion":"2025-06-07 02:25:30","activo":true}
